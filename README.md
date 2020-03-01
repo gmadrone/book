@@ -18,7 +18,7 @@ background on the different aspects of LinuxBoot.
 | [3](components/README.md)|&emsp; &emsp;LinuxBoot Components|
 | [4](u-root/README.md)|&emsp; &emsp;All about u-root|
 | [5](implemention/README.md)&emsp; &emsp;Implementing LinuxBoot|
-| [6](glossary/README.md)|&emsp; &emsp;Glossary|| #   | Chapter |
+| [6](glossary/README.md)|&emsp; &emsp;Glossary|
 
 ## Acknowledgments
 
